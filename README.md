@@ -3,10 +3,10 @@
 
 ¡Hola! 👋 Soy Espinosa Toledo Alan Ricardo, un Ingeniero en Sistemas apasionado por la tecnología y el desarrollo de software. Mi enfoque es ofrecer soluciones modernas y eficientes, siempre buscando innovar y crecer profesionalmente en un entorno dinámico.
 
-💡 Mi misión: Diseñar y desarrollar sistemas que aporten valor y marquen una diferencia significativa en el ámbito tecnológico.
+💡 Mi misión: 
+Diseñar y desarrollar sistemas que aporten valor y marquen una diferencia significativa en el ámbito tecnológico.
 
 📚 Habilidades Técnicas
-
 Lenguajes de Programación
 Python
 JavaScript
