@@ -33,4 +33,5 @@ Inglés: Nivel B1 (intermedio bajo)
 Aprender: Explorar y dominar tecnologías emergentes para mejorar mis habilidades.
 Crear: Desarrollar soluciones creativas y eficientes.
 Optimizar: Identificar y mejorar procesos para maximizar el impacto tecnológico.
+
 🔍 Actualmente busco oportunidades para aplicar mis conocimientos en proyectos desafiantes, mientras sigo creciendo como profesional en tecnología.
