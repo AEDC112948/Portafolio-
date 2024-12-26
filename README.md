@@ -7,7 +7,9 @@
 Diseñar y desarrollar sistemas que aporten valor y marquen una diferencia significativa en el ámbito tecnológico.
 
 📚 Habilidades Técnicas
+
 Lenguajes de Programación
+
 Python
 JavaScript
 Java
