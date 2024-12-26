@@ -28,8 +28,8 @@ GitHub: Plataforma colaborativa para almacenar y compartir código.
 🌍 Idiomas
 Español: Nativo
 Inglés: Nivel B1 (intermedio bajo)
-✨ Mis pilares:
 
+✨ Mis pilares:
 Aprender: Explorar y dominar tecnologías emergentes para mejorar mis habilidades.
 Crear: Desarrollar soluciones creativas y eficientes.
 Optimizar: Identificar y mejorar procesos para maximizar el impacto tecnológico.
