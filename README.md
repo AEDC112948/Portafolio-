@@ -11,32 +11,48 @@ Diseñar y desarrollar sistemas que aporten valor y marquen una diferencia signi
 Lenguajes de Programación
 
 Python
+
 JavaScript
+
 Java
+
 SQL
+
 PHP
+
+
 Frameworks y Librerías
 React
+
 Bootstrap
+
 Laravel
+
 Symphony
 
-
 Node.js
+
 Bases de Datos
+
 MySQL
 
 Control de Versiones
+
 Git: Gestión de versiones de proyectos.
+
 GitHub: Plataforma colaborativa para almacenar y compartir código.
 
 🌍 Idiomas
+
 Español: Nativo
+
 Inglés: Nivel B1 (intermedio bajo)
 
 ✨ Mis pilares:
 Aprender: Explorar y dominar tecnologías emergentes para mejorar mis habilidades.
+
 Crear: Desarrollar soluciones creativas y eficientes.
+
 Optimizar: Identificar y mejorar procesos para maximizar el impacto tecnológico.
 
 🔍 Actualmente busco oportunidades para aplicar mis conocimientos en proyectos desafiantes, mientras sigo creciendo como profesional en tecnología.
