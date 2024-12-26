@@ -6,25 +6,28 @@
 💡 Mi misión: Diseñar y desarrollar sistemas que aporten valor y marquen una diferencia significativa en el ámbito tecnológico.
 
 📚 Habilidades Técnicas
+
 Lenguajes de Programación
 Python
 JavaScript
 Java
 SQL
 PHP
-
+Frameworks y Librerías
 React
 Bootstrap
-Backend
+Laravel
+Symphony
 
 
 Node.js
 Bases de Datos
-MySQL: Ideal para sistemas relacionales estructurados.
+MySQL
 
 Control de Versiones
 Git: Gestión de versiones de proyectos.
 GitHub: Plataforma colaborativa para almacenar y compartir código.
+
 🌍 Idiomas
 Español: Nativo
 Inglés: Nivel B1 (intermedio bajo)
